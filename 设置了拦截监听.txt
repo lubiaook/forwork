@@ -1,0 +1,15 @@
+08-11 15:23:58.138: W/sunzn(1194): TouchEventActivity | dispatchTouchEvent --> ACTION_DOWN
+08-11 15:23:58.138: E/sunzn(1194): TouchEventFather | dispatchTouchEvent --> ACTION_DOWN
+08-11 15:23:58.138: I/sunzn(1194): TouchEventFather | onInterceptTouchEvent --> ACTION_DOWN
+08-11 15:23:58.138: E/sunzn(1194): TouchEventChilds | dispatchTouchEvent --> ACTION_DOWN
+08-11 15:23:58.138: I/sunzn(1194): TouchEventChilds | onInterceptTouchEvent --> ACTION_DOWN
+08-11 15:23:58.138: E/sunzn(1194): TouchEventChView | dispatchTouchEvent --> ACTION_DOWN
+08-11 15:23:58.138: D/sunzn(1194): TouchEventView | onTouchEvent --> ACTION_DOWN
+08-11 15:23:58.148: W/sunzn(1194): TouchEventActivity | dispatchTouchEvent --> ACTION_UP
+08-11 15:23:58.148: E/sunzn(1194): TouchEventFather | dispatchTouchEvent --> ACTION_UP
+08-11 15:23:58.148: I/sunzn(1194): TouchEventFather | onInterceptTouchEvent --> ACTION_UP
+08-11 15:23:58.148: E/sunzn(1194): TouchEventChilds | dispatchTouchEvent --> ACTION_UP
+08-11 15:23:58.148: I/sunzn(1194): TouchEventChilds | onInterceptTouchEvent --> ACTION_UP
+08-11 15:23:58.148: E/sunzn(1194): TouchEventChView | dispatchTouchEvent --> ACTION_UP
+08-11 15:23:58.148: D/sunzn(1194): TouchEventView | onTouchEvent --> ACTION_UP
+08-11 15:23:58.158: W/sunzn(1194): TouchEventView| OnClickListener --> 
